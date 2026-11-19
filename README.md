@@ -4,6 +4,8 @@
 
 </div>
 
+<br>
+
 I'm a **PhD researcher in Computer Engineering** at the **Universidad de Sevilla**, affiliated with **CABIMER**.
 
 🧬 My thesis focuses on computational approaches to women's health during hormonal transitions, as part of the [**HormoBiome**](https://www.hormobiome.com/) research group.<br>
