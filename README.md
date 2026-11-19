@@ -14,9 +14,9 @@ I'm a **PhD researcher in Computer Engineering** at the **Universidad de Sevilla
 
 ## 🔬 Research lines
 
-- **Sleep & polysomnography**: microarchitecture biomarkers beyond conventional PSG scoring
 - **Microbiome & estrobolome**: β-glucuronidase (GUS) profiling, 16S and metagenomics
 - **Women's health**: endometriosis, Sjögren's syndrome and confounding factors in clinical cohorts
+- **Sleep & polysomnography**: microarchitecture biomarkers beyond conventional PSG scoring
 - **Health informatics & ML**: interpretable machine learning for clinical data
 
 ## 🌐 Languages
