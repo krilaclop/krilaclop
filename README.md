@@ -32,4 +32,6 @@ Spanish (native) · English (C1) · French (B1)
 
 </div>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A4FFF&height=100&section=footer" width="100%" />
