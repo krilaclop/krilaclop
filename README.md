@@ -23,6 +23,8 @@ I'm a **PhD researcher in Computer Engineering** at the **Universidad de Sevilla
 
 Spanish (native) · English (C1) · French (B1)
 
+<br>
+
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9612-6964)
@@ -31,7 +33,5 @@ Spanish (native) · English (C1) · French (B1)
 [![HormoBiome](https://img.shields.io/badge/HormoBiome-8A4FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hormobiome.com/)
 
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A4FFF&height=100&section=footer" width="100%" />
