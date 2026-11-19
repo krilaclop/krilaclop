@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8A4FFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Kris+%F0%9F%A7%AC;Computational+women's+health;Microbiome+%C2%B7+Sleep+%C2%B7+Machine+learning;Turning+hormones+into+data" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=8A4FFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kris+%F0%9F%A7%AC;Computational+women's+health" alt="Hi, I'm Kris" />
 
 </div>
 
+I'm a PhD researcher in Computer Engineering at the **Universidad de Sevilla** and **CABIMER**, part of the [**HormoBiome**](https://www.hormobiome.com/) group. My thesis looks at women's health during the hormonal transition through a computational lens: I work with microbiome data, sleep recordings and clinical cohorts, and use machine learning to make sense of them.
+
+I collaborate with an international consortium including **Charité Berlin**, **HTWG Konstanz** and **Reutlingen University**.
+
 ```yaml
-researcher:
-  name: Kristina Lacasta
-  role: PhD researcher, Computer Engineering
-  where: Universidad de Sevilla · CABIMER
-  group: HormoBiome
-  thesis: Computational approaches to women's health during the hormonal transition
-  collaborating_with: [Charité Berlin, HTWG Konstanz, Reutlingen University]
-  looking_at: [estrobolome, sleep microarchitecture, endometriosis, Sjögren's syndrome]
-  currently_learning: metagenomics
+currently:
+  researching: [estrobolome, sleep microarchitecture, endometriosis, Sjögren's syndrome]
+  learning: metagenomics
   speaks: [es, en, fr]
 ```
 
